@@ -17,4 +17,10 @@ Papers Presented on:
 "_A hierarchical Bayesian model for single-cell clustering using RNA-sequencing data_" -> BasClu.pdf
 "Amortized Monte Carlo Integration" -> AMCI.pdf
 
+"_Surrogate Likelihoods for Variational Annealed Importance Sampling_" -> Surrogate_Likelihoods.pdf
+
+**Probabilstic Machine Learning: Advanced Topics - Variational Inference** -> VI_Talk.pdf
+
+**Advanced Data Analysis from an Elementary Point of View (Part III: Causal Inference)** -> Causal_Inference_Talk.pdf
+
 deepST.pdf is a presentation about the early stages of my personal work with Graph Neural Networks and Spatial Transcriptomics.
